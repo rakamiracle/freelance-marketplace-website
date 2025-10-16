@@ -1,0 +1,17 @@
+Color Replacement Guide:
+- from-blue-500 to-purple-600 -> from-blue-500 to-blue-600
+- from-blue-600 to-purple-700 -> from-blue-600 to-blue-700
+- from-purple-400 to-pink-500 -> from-blue-400 to-blue-600
+- from-purple-50 to-pink-50 -> from-blue-50 to-blue-100
+- from-purple-50 to-blue-50 -> from-blue-50 to-blue-100
+- from-blue-50 to-purple-50 -> from-blue-50 to-blue-100
+- from-blue-400 to-purple-500 -> from-blue-400 to-blue-600
+- from-purple-400 to-purple-600 -> from-blue-400 to-blue-600
+- from-pink-400 to-pink-600 -> from-gray-400 to-gray-600
+- from-pink-50 to-pink-100 -> from-gray-50 to-gray-100
+- from-purple-50 to-purple-100 -> from-blue-50 to-blue-100
+- from-blue-500 to-purple-600 (hover) -> from-blue-600 to-blue-700
+- border-purple -> border-blue
+- text-purple -> text-blue
+- bg-purple -> bg-blue
+- hover:bg-purple -> hover:bg-blue
